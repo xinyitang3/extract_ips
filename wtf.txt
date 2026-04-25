@@ -12,7 +12,6 @@
 175.123.172.227:443#KR Ansan-si AS9318 SK Broadband Co Ltd
 193.123.233.168:443#KR Gangseo-gu AS31898 Oracle Corporation
 203.227.191.29:443#KR Seoul AS9848 MOACK
-218.37.108.70:443#KR Seoul AS17864 SK Broadband Co Ltd
 5.34.223.50:443#JP Tokyo AS38136 Akari Networks (Tokyo)
 8.216.5.125:443#JP Tokyo AS45102 Alibaba Cloud (Singapore) Private Limited
 38.47.111.142:443#JP Osaka AS400464 VMISS Inc.
@@ -221,3 +220,76 @@
 211.75.210.32:443#TW Taichung AS3462 Data Communication Business Group,
 213.210.4.44:443#TW Taipei AS212336 ByteVirt LLC
 213.210.5.89:443#TW Taipei AS212336 ByteVirt LLC
+157.120.38.66:443#SG Singapore AS55430 StarHub Internet Pte Ltd
+158.51.109.250:443#JP Kanda-jinbōchō AS18526 DDPS Networks, LLC
+161.33.141.33:443#JP Inzai AS31898 Oracle Corporation
+89.125.244.207:443#JP Tokyo AS26383 Baxet Group Inc.
+172.238.6.57:443#JP Tokyo AS63949 Linode
+172.235.199.158:443#JP Osaka AS63949 Linode
+158.51.109.181:443#JP Kanda-jinbōchō AS18526 DDPS Networks, LLC
+64.176.56.68:443#JP Osaka AS20473 The Constant Company, LLC
+139.180.203.76:443#JP Ōi AS20473 TYO_VULTR_CUST
+154.31.116.61:443#JP Tokyo AS32519 Private Customer
+132.145.126.33:443#JP Inzai AS31898 Oracle Public Cloud
+150.230.107.220:443#JP Inzai AS31898 Oracle Corporation
+155.248.181.189:443#JP Inzai AS31898 Oracle Public Cloud
+192.243.127.102:443#JP Osaka AS25820 IT7 Networks Inc
+188.253.118.145:443#SG Singapore AS55430 StarHub Internet Pte Ltd
+168.138.46.67:443#JP Osaka AS31898 Oracle Public Cloud
+140.245.86.172:443#JP Inzai AS31898 Oracle Corporation
+153.121.45.101:443#JP Tokyo AS9370 SAKURA Internet Inc.
+158.51.109.180:443#JP Kanda-jinbōchō AS18526 DDPS Networks, LLC
+23.106.129.66:443#JP Osaka AS25820 IT7 Networks Inc
+35.236.137.152:443#TW Taipei AS396982 Google LLC
+178.173.254.43:443#NL Amsterdam AS42532 SIA VEESP
+86.104.73.192:443#KZ Almaty AS209847 WorkTitans B.V.
+95.164.19.106:443#KZ Almaty AS209847 WorkTitans B.V.
+94.131.2.70:443#KZ Almaty AS209847 WorkTitans B.V.
+5.180.46.44:443#NL Amsterdam AS41111 FAST GEO HOSTING S.R.L.
+218.37.108.70:443#KR Seoul AS17864 SK Broadband Co Ltd
+134.185.97.168:443#KR Chuncheon AS31898 Oracle Corporation
+193.123.233.175:443#KR Gangseo-gu AS31898 Oracle Corporation
+91.207.28.135:443#KG Kant AS39819 Optima Telecom Ltd.
+139.59.240.35:443#SG Singapore AS14061 DigitalOcean, LLC
+128.199.179.250:443#DE Frankfurt am Main AS14061 DigitalOcean, LLC
+159.89.194.103:443#SG Singapore AS14061 DigitalOcean, LLC
+43.170.25.96:443#US Ashburn AS139341 6 COLLYER QUAY
+193.124.36.16:443#FI Helsinki AS57043 Snowd Security OU
+43.160.234.53:443#SG Singapore AS132203 6 COLLYER QUAY
+104.248.154.180:443#SG Singapore AS14061 DigitalOcean, LLC
+158.178.234.153:443#SG Kampong Loyang AS31898 Oracle Corporation
+152.42.176.245:443#SG Singapore AS14061 DigitalOcean, LLC
+157.245.200.76:443#SG Singapore AS14061 DigitalOcean, LLC
+188.166.230.196:443#SG Singapore AS14061 DigitalOcean, LLC
+152.42.172.103:443#SG Singapore AS14061 DigitalOcean, LLC
+188.166.250.115:443#SG Singapore AS14061 DigitalOcean, LLC
+143.198.211.180:443#SG Singapore AS14061 DigitalOcean, LLC
+161.118.213.45:443#SG Kampong Loyang AS31898 500 Oracle Parkway
+104.248.145.216:443#SG Singapore AS14061 DigitalOcean, LLC
+139.180.216.166:443#SG Singapore AS20473 SGP_VULTR_CUST
+139.59.239.116:443#SG Singapore AS14061 DigitalOcean, LLC
+43.170.17.114:443#NL Amsterdam AS139341 6 COLLYER QUAY
+45.77.171.143:443#SG Singapore AS20473 Vultr Holdings, LLC
+188.166.213.18:443#SG Singapore AS14061 DigitalOcean, LLC
+167.172.95.164:443#SG Singapore AS14061 DigitalOcean, LLC
+139.180.208.63:443#SG Singapore AS20473 SGP_VULTR_CUST
+159.89.207.154:443#SG Singapore AS14061 DigitalOcean, LLC
+128.199.127.103:443#SG Singapore AS14061 DigitalOcean, LLC
+130.94.41.49:443#SG Singapore AS154177 LIGHT NODE LIMITED
+152.42.178.179:443#DE Frankfurt am Main AS14061 DigitalOcean, LLC
+146.190.103.10:443#SG Singapore AS14061 DigitalOcean, LLC
+18.198.227.161:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+18.193.131.26:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+18.192.93.64:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+18.196.70.197:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+3.68.31.54:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+3.66.115.225:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+3.67.232.136:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+35.157.240.237:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+3.69.0.8:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+18.156.209.101:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+3.68.62.122:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+18.185.254.189:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+3.127.55.133:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+18.159.105.97:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
+149.104.110.97:443#DE Frankfurt am Main AS138915 Kaopu Cloud HK Limited
