@@ -51,7 +51,6 @@
 45.77.33.206:443#SG Singapore AS20473 Vultr Holdings, LLC
 45.77.255.153:443#SG Singapore AS140952 Strong Technology, LLC
 47.79.242.26:443#SG Singapore AS45102 Alibaba Cloud LLC
-47.84.45.11:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
 47.245.99.109:443#SG Singapore AS7473 SingTel Internet Exchange
 52.139.230.240:443#SG Singapore AS8075 Microsoft Corporation
 58.182.142.161:443#SG Singapore AS55430 StarHub Cable Vision Ltd Singapore Broadband Access Provider
