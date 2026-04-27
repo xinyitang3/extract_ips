@@ -1284,3 +1284,4 @@
 154.31.117.245:443#JP Tokyo AS906 DMIT Inc.
 122.10.119.252:443#HK Tung Chung AS55933 Cloudie Limited
 64.186.226.194:443#US Los Angeles AS906 Private Customer
+45.95.212.117:443#JP Tokyo AS209554 ISIF Network (Japan Tokyo)
