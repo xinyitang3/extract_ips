@@ -920,4 +920,145 @@
 18.185.254.189:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
 3.127.55.133:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
 18.159.105.97:443#DE Frankfurt am Main AS16509 Amazon Data Services Ireland Ltd
-143.110.184.105:443#IN Mumbai AS149020
+8.210.167.8:443#HK Hong Kong AS45102 Aliyun Computing Co.LTD
+20.187.104.221:443#HK Hong Kong AS8075 Microsoft Corporation
+23.156.153.64:443#HK Tung Chung AS202662 Hytron Network Services Limited
+38.55.104.92:443#HK Tsuen Wan AS967 VMISS Inc.
+38.55.105.144:443#HK Tsuen Wan AS967 VMISS Inc.
+38.55.105.169:443#HK Tsuen Wan AS967 VMISS Inc.
+38.147.177.218:443#HK Kadoorie AS6134 Hongkong Wen Jing Network Limited
+38.147.187.14:443#HK Tung Chung AS932 VH Global Limited
+38.147.187.165:443#HK Tung Chung AS932 VH Global Limited
+43.154.131.189:443#HK Hong Kong AS132203 6 COLLYER QUAY
+43.248.11.213:443#HK Tung Chung AS42960 RM301K,3/F,HONGKONG TRADE CENTRE
+45.38.42.166:443#HK Hong Kong AS56971 as56971 network
+45.38.42.183:443#HK Hong Kong AS56971 as56971 network
+45.38.42.211:443#HK Hong Kong AS56971 as56971 network
+45.39.190.6:443#HK Hong Kong AS56971 as56971 network
+45.39.190.7:443#HK Hong Kong AS56971 as56971 network
+45.39.190.66:443#HK Hong Kong AS56971 as56971 network
+45.39.190.195:443#HK Hong Kong AS56971 as56971 network
+45.39.190.217:443#HK Hong Kong AS56971 as56971 network
+45.125.33.25:443#HK Tung Chung AS55933 Cloudie Limited
+45.133.239.168:443#HK Tung Chung AS6134 Hongkong Wen Jing Network Limited
+45.136.13.36:443#HK Harmony Garden AS139659 MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL
+45.144.174.13:443#HK Hong Kong AS26383 Baxet Group Inc.
+45.145.229.122:443#HK Tung Chung AS139659 MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL
+45.145.229.200:443#HK Tung Chung AS139659 MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL
+13.192.127.5:443#JP Tokyo AS16509 Amazon.com, Inc.
+23.106.128.211:443#JP Osaka AS25820 IT7 Networks Inc
+35.77.96.115:443#JP Tokyo AS16509 Amazon.com, Inc.
+38.47.105.82:443#JP Tokyo AS51847 NPO G-net
+38.47.125.33:443#JP Tokyo AS400464 VMISS Inc.
+38.47.126.48:443#JP Tokyo AS51847 NPO G-net
+38.207.130.236:443#JP Tokyo AS51847 NPO G-net
+43.207.170.95:443#JP Tokyo AS16509 Amazon.com, Inc.
+45.32.23.237:443#JP Ōi AS20473 Vultr Holdings, LLC
+45.32.51.47:443#JP Ōi AS20473 The Constant Company, LLC
+45.77.21.104:443#JP Ōi AS20473 The Constant Company, LLC
+45.95.212.117:443#JP Tokyo AS209554 ISIF Network (Japan Tokyo)
+47.79.38.36:443#JP Tokyo AS45102 Alibaba Cloud (Singapore) Private Limited
+52.69.138.142:443#JP Tokyo AS16509 Amazon.com, Inc.
+52.194.224.90:443#JP Tokyo AS16509 Amazon.com, Inc.
+54.64.6.20:443#JP Tokyo AS16509 Amazon.com, Inc.
+54.64.65.213:443#JP Tokyo AS16509 Amazon.com, Inc.
+54.92.31.0:443#JP Tokyo AS16509 Amazon.com, Inc.
+54.248.143.139:443#JP Tokyo AS16509 Amazon.com, Inc.
+3.39.167.228:443#KR Incheon AS16509 Amazon.com, Inc.
+13.124.71.11:443#KR Incheon AS16509 Amazon.com, Inc.
+13.125.209.77:443#KR Incheon AS16509 Amazon.com, Inc.
+132.226.238.126:443#SG Singapore AS21859 Zenlayer Inc
+134.185.124.175:443#SG Singapore AS21859 ZENLA-1
+146.56.184.95:443#KR Gangseo-gu AS31898 Oracle Public Cloud
+158.180.70.201:443#SG Singapore AS21859 Zenlayer Inc
+158.180.85.192:443#SG Singapore AS21859 Zenlayer Inc
+168.107.26.189:443#KR Chuncheon AS31898 Oracle Corporation
+168.107.37.14:443#SG Singapore AS21859 Zenlayer Inc
+168.110.108.119:443#SG Singapore AS21859 ZENLA-1
+185.227.144.156:443#FI Helsinki AS50053 Individual Entrepreneur Anton Levin
+185.227.144.238:443#FI Helsinki AS50053 Individual Entrepreneur Anton Levin
+217.60.7.13:443#US Kansas City AS56971 as56971 network
+45.202.246.172:443#MO Macau AS61112 AkileCloud MO
+1.161.36.141:443#TW Taipei AS3462 Chunghwa Telecom Co.,Ltd.
+1.161.50.87:443#TW Taipei AS3462 Chunghwa Telecom Co.,Ltd.
+1.162.71.62:443#TW Banqiao AS3462 HiNet Taiwan
+36.235.148.188:443#JP Tokyo AS63916 Techavenue International Ltd
+60.249.21.29:443#TW Taichung AS3462 Chunghwa Telecom Co.,Ltd.
+111.251.129.82:443#TW Taoyuan City AS3462 HiNet Taiwan
+2001:df4:f80:123:bbcc:52fb:26b3:1:443#ID Jakarta AS140443 PT Herza Digital Indonesia
+45.128.54.137:443#MY Cheras AS209847 WorkTitans B.V.
+142.111.146.116:443#MY Kuala Lumpur AS149440 Evoxt.com
+142.111.146.123:443#MY Kuala Lumpur AS149440 Evoxt.com
+163.61.103.239:443#MY Johor Bahru AS137552 Terabix Technologies Sdn. Bhd.
+202.61.75.46:443#MY Kuala Lumpur AS149440 Evoxt.com
+2a02:4780:5e:d9e7::1:443#MY Kuala Lumpur AS47583 Hostinger International Limited
+5.34.176.42:443#SG Singapore AS204957 IPv6 services for VDS/VPS
+5.223.52.82:443#SG Singapore AS215859 Hetzner Online GmbH
+5.223.85.30:443#SG Singapore AS215859 Hetzner Online GmbH
+5.223.95.176:443#SG Singapore AS215859 Hetzner Online GmbH
+8.219.56.26:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+8.219.76.5:443#SG Singapore AS45102 Alibaba Cloud LLC
+8.219.104.240:443#SG Singapore AS45102 Alibaba Cloud LLC
+8.219.159.123:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+8.219.169.147:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+8.219.176.193:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+8.222.181.128:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+8.222.232.199:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+13.214.209.85:443#SG Singapore AS16509 Amazon.com, Inc.
+13.228.58.68:443#SG Singapore AS16509 Amazon.com, Inc.
+13.250.22.226:443#SG Singapore AS16509 Amazon.com, Inc.
+13.250.74.100:443#SG Singapore AS16509 Amazon Data Services Singapore
+18.136.144.105:443#SG Singapore AS16509 Amazon.com, Inc.
+18.138.34.221:443#SG Singapore AS16509 Amazon.com, Inc.
+18.140.179.70:443#SG Singapore AS16509 Amazon.com, Inc.
+18.142.150.155:443#SG Singapore AS16509 Amazon.com, Inc.
+23.111.15.140:443#SG Singapore AS59253 LEASEWEB SINGAPORE PTE. LTD.
+45.127.35.143:443#SG Singapore AS134677 28 Kallang Place # 05-08 Singapore 339518
+45.132.75.78:443#SG Singapore AS215502 Yxom Network Next
+47.79.239.193:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+47.130.175.234:443#SG Singapore AS16509 Amazon.com, Inc.
+47.131.92.170:443#SG Singapore AS16509 Amazon.com, Inc.
+47.131.107.7:443#SG Singapore AS16509 Amazon.com, Inc.
+47.236.74.227:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+47.236.106.217:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+47.236.136.23:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
+47.237.75.212:443#SG Singapore AS45102 Alibaba Cloud LLC
+52.221.240.157:443#SG Singapore AS16509 Amazon.com, Inc.
+54.151.189.38:443#SG Singapore AS16509 Amazon.com, Inc.
+54.151.227.203:443#SG Singapore AS16509 Amazon.com, Inc.
+54.179.92.244:443#SG Singapore AS16509 Amazon.com, Inc.
+54.251.243.104:443#SG Singapore AS16509 Amazon.com, Inc.
+54.254.116.18:443#SG Singapore AS16509 Amazon.com, Inc.
+84.247.150.74:443#SG Singapore AS141995 Contabo Asia Private Limited
+103.20.235.195:443#SG Singapore AS395092 Shock Hosting LLC
+103.167.151.153:443#SG Singapore AS63473 HostHatch Singapore
+5.252.26.38:443#DE Eschborn AS199524 G-Core Labs Customer assignment
+27.254.219.249:443#TH Bangkok AS9891 reassign to IDC-CBW Customer
+38.54.117.165:443#TH Bangkok AS138915 Kaopu Cloud HK Limited
+43.229.148.43:443#TH Bangkok AS56309 ReadyIDC
+43.229.148.110:443#TH Bangkok AS56309 ReadyIDC
+45.136.254.175:443#TH Mueang Nonthaburi AS56309 ReadyIDC Co., Ltd.
+45.150.128.159:443#TH Mueang Nonthaburi AS56309 ReadyIDC Co., Ltd.
+45.150.128.181:443#TH Mueang Nonthaburi AS56309 ReadyIDC Co., Ltd.
+45.154.24.89:443#TH Mueang Nonthaburi AS56309 ReadyIDC Co., Ltd.
+47.81.35.229:443#SG Singapore AS7473 SingTel Internet Exchange
+47.81.56.99:443#SG Singapore AS7473 SingTel Internet Exchange
+110.164.146.161:443#TH Bangkok AS152734 3BB Broadband Internet service provider in Thailand
+116.118.8.19:443#VN Quận Bảy AS7602 ADSL service
+13.204.131.122:443#IN Mumbai AS16509 Amazon.com, Inc.
+52.66.200.252:443#IN Mumbai AS16509 Amazon.com, Inc.
+2a02:4780:63:7df9::1:443#IN Mumbai AS47583 Hostinger International Limited
+31.130.153.113:443#KZ Almaty AS9123 JSC TIMEWEB
+45.139.29.163:443#KZ Astana AS205516 Beget LLC
+77.73.135.28:443#GB London AS210644 Aeza International LTD
+185.5.74.38:443#KZ Almaty AS49791 3HCLOUD LLC
+185.5.74.129:443#KZ Almaty AS49791 3HCLOUD LLC
+213.155.20.78:443#KZ Almaty AS48716 PS Internet Company LLP
+213.155.22.139:443#KZ Astana AS39318 PS Internet Company LLP
+213.155.29.135:443#KZ Almaty AS49791 3HCLOUD LLC
+217.177.35.47:443#US Dallas AS49791 3HCLOUD LLC
+35.77.91.62:443#JP Tokyo AS16509 Amazon.com, Inc.
+45.202.247.36:443#MO Macau AS61112 AkileCloud MO
+43.169.18.179:443#SG Singapore AS139341 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES
+54.255.225.155:443#SG Singapore AS16509 Amazon.com, Inc.
+82.148.2.86:443#UZ Tashkent AS43647 SERVERCORE UZ Network
