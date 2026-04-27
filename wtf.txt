@@ -846,7 +846,6 @@
 82.148.2.86:443#UZ Tashkent AS43647 SERVERCORE UZ Network
 80.225.204.154:443#IN Mumbai AS31898 Oracle Svenska AB
 147.75.230.160:443#US San Jose AS11179 Aryaka Networks, Inc.
-8.210.17.242:443#HK Hong Kong AS45102 Aliyun Computing Co.LTD
 8.212.4.124:443#US Los Angeles AS45102 Alibaba Cloud - US
 8.218.118.182:443#HK Hong Kong AS45102 Alibaba Cloud (Singapore) Private Limited
 23.140.244.128:443#HK Hong Kong AS35876 Skyvoro Inc
