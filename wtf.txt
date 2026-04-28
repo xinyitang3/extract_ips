@@ -6277,3 +6277,9 @@
 94.156.170.150:443#DE Frankfurt am Main AS215439 play2go.cloud - Cheap and reliable hosting
 46.101.72.218:443#GB London AS14061 DigitalOcean, LLC
 217.144.185.122:443#DE Frankfurt am Main AS210644 AEZA GROUP LLC
+3.112.210.73:443#JP Tokyo AS16509 Amazon.com, Inc.
+52.195.184.209:443#JP Tokyo AS16509 Amazon.com, Inc.
+18.180.75.128:443#JP Tokyo AS16509 Amazon.com, Inc.
+57.180.168.118:443#JP Tokyo AS16509 Amazon Data Services Japan
+13.114.169.120:443#JP Tokyo AS16509 Amazon.com, Inc.
+13.158.170.96:443#JP Tokyo AS16509 Amazon.com, Inc.
