@@ -855,6 +855,7 @@
 149.104.109.21:443#PH Manila AS138915 Kaopu Cloud HK Limited
 209.146.25.162:443#PH Makati City AS135607 IPS, Inc.
 8.219.134.138:443#US Virginia Beach AS45102 Alibaba Cloud - US
+8.219.155.125:443#JP Tokyo AS45102 Alibaba Cloud (Singapore) Private Limited
 8.219.195.31:443#JP Tokyo AS45102 Alibaba Cloud (Singapore) Private Limited
 8.219.198.57:443#US Virginia Beach AS45102 Alibaba Cloud - US
 8.222.130.90:443#SG Singapore AS45102 Alibaba Cloud (Singapore) Private Limited
