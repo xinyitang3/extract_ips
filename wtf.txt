@@ -16028,3 +16028,8 @@
 132.145.54.66:443#GB London AS31898 Oracle Public Cloud
 195.96.129.36:443#NL Amsterdam AS57043 InterLIR-Marketplace
 54.183.223.218:443#US San Jose AS16509 Amazon.com, Inc.
+211.75.210.34:443#TW Taichung AS3462 Data Communication Business Group,
+154.17.29.141:443#US Los Angeles AS906 DMIT Cloud Services
+66.85.45.38:443#US Warrenville AS7018 AT&T Enterprises, LLC
+108.247.217.202:443#US El Monte AS7018 AT&T Enterprises, LLC
+108.247.217.229:443#US El Monte AS7018 AT&T Enterprises, LLC
