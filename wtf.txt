@@ -8611,14 +8611,14 @@
 20.82.97.26:443#NL Amsterdam AS8075 Microsoft Corporation
 20.172.64.219:443#US Phoenix AS8075 Microsoft Corporation
 23.27.0.234:443#HK Hong Kong AS149440 Evoxt.com
-23.27.24.138:443#
+23.27.24.138:443#US Los Angeles AS149440 Evoxt.com
 23.27.113.77:443#MY Kuala Lumpur AS149440 Evoxt.com
 23.27.245.216:443#US Los Angeles AS149440 Evoxt
 23.94.43.51:443#US Seattle AS36352 RackNerd LLC
 23.94.134.141:443#NL Amsterdam AS36352 RackNerd LLC
 23.94.208.112:443#US Santa Clara AS36352 RackNerd LLC
 23.95.31.22:443#US Los Angeles AS36352 HostPapa
-23.95.61.116:443#
+23.95.61.116:443#US Los Angeles AS36352 HostPapa
 23.95.88.103:443#US San Jose AS36352 RackNerd LLC
 23.95.189.91:443#US Buffalo AS36352 RackNerd LLC
 23.105.203.178:443#US Los Angeles AS25820 IT7 Networks Inc
@@ -8681,7 +8681,7 @@
 45.77.89.52:443#GB London AS20473 Vultr Holdings, LLC
 45.77.127.229:443#US Los Angeles AS20473 Vultr Holdings, LLC
 45.77.142.235:443#DE Frankfurt am Main AS20473 Vultr Holdings, LLC
-45.77.241.189:443#US
+45.77.241.189:443#SG Singapore AS20473 The Constant Company, LLC
 45.78.76.242:443#US Los Angeles AS25820 Cluster Logic Inc
 45.125.33.75:443#HK Hong Kong AS63150 BAGE CLOUD LLC
 45.136.199.148:443#RO Bucharest AS9009 IROKO Networks Corporation
@@ -8699,7 +8699,7 @@
 46.62.166.149:443#FI Helsinki AS24940 Hetzner Online GmbH
 46.62.204.134:443#FI Helsinki AS24940 Hetzner Online GmbH
 46.225.97.246:443#DE Nürnberg AS24940 Hetzner Online GmbH
-47.57.182.233:443#
+47.57.182.233:443#HK Hong Kong AS45102 Alibaba Cloud - US
 47.79.37.216:443#JP Tokyo AS45102 Alibaba Cloud LLC
 47.79.39.45:443#JP Tokyo AS45102 Alibaba Cloud (Singapore) Private Limited
 47.84.95.77:443#SG Singapore AS45102 Alibaba Cloud LLC
@@ -8774,7 +8774,7 @@
 65.21.224.102:443#FI Helsinki AS24940 Hetzner Online GmbH
 65.109.141.230:443#FI Helsinki AS24940 Hetzner Online GmbH
 65.109.160.132:443#FI Helsinki AS24940 Hetzner Online GmbH
-65.109.168.112:443#
+65.109.168.112:443#FI Helsinki AS24940 Hetzner Online GmbH
 65.109.177.146:443#FI Helsinki AS24940 Hetzner Online GmbH
 65.109.209.48:443#FI Helsinki AS24940 Hetzner Online GmbH
 65.109.213.219:443#FI Helsinki AS24940 Hetzner Online GmbH
